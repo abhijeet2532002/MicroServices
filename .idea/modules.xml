@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AbhijeetHotel/AbhijeetHotel.iml" filepath="$PROJECT_DIR$/AbhijeetHotel/AbhijeetHotel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbhijeetRating/AbhijeetRating.iml" filepath="$PROJECT_DIR$/AbhijeetRating/AbhijeetRating.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbhijeetServiceDiscovery/AbhijeetServiceDiscovery.iml" filepath="$PROJECT_DIR$/AbhijeetServiceDiscovery/AbhijeetServiceDiscovery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AbhijeetUser/AbhijeetUser.iml" filepath="$PROJECT_DIR$/AbhijeetUser/AbhijeetUser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MicroServices.iml" filepath="$PROJECT_DIR$/.idea/MicroServices.iml" />
+    </modules>
+  </component>
+</project>
